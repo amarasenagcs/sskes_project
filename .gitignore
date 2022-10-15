@@ -1,0 +1,43 @@
+db.sqlite3
+*.swp
+###
+#Django
+###
+*.log
+*.pot
+*.pvc
+*__pycache__*
+
+
+*.mp4
+*.pdf
+###
+#Environments
+####
+env/*
+
+###
+#Vue
+####
+.DS_Store
+sskes_frontend/node_modules/*
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,45 @@
+{
+  "name": "sskes_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "@popperjs/core": "^2.11.5",
+    "axios": "^0.25.0",
+    "bootstrap": "^5.2.0",
+    "chart.js": "^3.7.1",
+    "core-js": "^3.6.5",
+    "datatables.net-bs5": "^1.12.1",
+    "datatables.net-buttons-bs5": "^2.2.3",
+    "datatables.net-select": "^1.4.0",
+    "datatables.net-vue3": "^1.0.0",
+    "jquery": "^3.6.1",
+    "jszip": "^3.10.1",
+    "pdfmake": "^0.2.5",
+    "vee-validate": "^4.6.7",
+    "vue": "^3.0.0",
+    "vue-chart-3": "^3.1.8",
+    "vue-chartjs": "^4.1.1",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
+  }
+}
